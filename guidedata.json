@@ -2,9 +2,9 @@
 	"ADS":
 		   {
 		
-			"banner_type":"facebook",
+			"banner_type":"admob",
 			"inter_type":"admob",
-			"native_type":"facebook",
+			"native_type":"admob",a
 			"GandW": "guide",
 			
 			
@@ -12,19 +12,19 @@
 			
 			
 			
-			"banner_admob":"ca-app-pub56099942",
-			"interstitial_admob":"ca-app-pub-567",
-			"native_admob":"ca-app-pub-4567",
-			 "rewarde_admob":"ca-app-pub-3940256099942544/5354046379",  
+			"banner_admob":"ca-app-pub-4459830934377915/3825689006",
+			"interstitial_admob":"ca-app-pub-4459830934377915/7535502172",
+			"native_admob":"ca-app-pub-4459830934377915/9128867018",
+			 "rewarde_admob":"ca-app-pub-4459830934377915/1095013067",  
    
-			"banner_admob1":"ca-app56789",
-			"interstitial_admob1":"ca-app-p12",
-			"native_admob1":"ca-app-pub-39110",
+			"banner_admob1":"ca-app-pub-4459830934377915/3825689006",
+			"interstitial_admob1":"ca-app-pub-4459830934377915/7535502172",
+			"native_admob1":"ca-app-pub-4459830934377915/9128867018",
 			 "rewarde_admob1":"ca-app-pub-3940256099942544/5354046379",
    
-			"banner_admob2":"ca-app-pub-3940256099942544/6300978111",
+			"banner_admob2":"ca-app-pub-4459830934377915/3825689006",
 			"interstitial_admob2":"ca-app-pub-3940256099942544/1033173712",
-			"native_admob2":"ca-app-pub-3940256099942544/2247696110",
+			"native_admob2":"ca-app-pub-4459830934377915/9128867018",
 			 "rewarde_admob2":"ca-app-pub-3940256099942544/5354046379",
    
 		   "facebook_interstitial": "79",
@@ -44,71 +44,42 @@
 		   
 		  
 		   
-   "image1":"https://iili.io/WXSCN4.webp",
-   "image2":"https://iili.io/WXSCN4.webp",
-   "image3":"https://iili.io/WXSCN4.webp",
-   "image4":"https://iili.io/WXSCN4.webp",
-   "image5":"https://iili.io/WXSCN4.webp",
-   "image6":"https://iili.io/WXSCN4.webp",
-   "image7":"https://iili.io/WXSCN4.webp",
-   "image8":"https://iili.io/WXSCN4.webp",
-   "image9":"https://iili.io/WXSCN4.webp",
-   "image10":"https://iili.io/WXSCN4.webp",
+   "image1":"https://iili.io/Wc7LAu.png",
+   "image2":"https://iili.io/Wc7LAu.png",
+   "image3":"https://iili.io/Wc7LAu.png",
+   "image4":"https://iili.io/Wc7LAu.png",
+   "image5":"https://iili.io/Wc7LAu.png",
+   "image6":"https://iili.io/Wc7LAu.png",
+   "image7":"https://iili.io/Wc7LAu.png",
+   "image8":"https://iili.io/Wc7LAu.png",
+   "image9":"https://iili.io/Wc7LAu.png",
+   "image10":"https://iili.io/Wc7LAu.png",
    
-   "tip1":"Bakso Simulator is a guide featuring a meatballs Indonesian cuisine namely Bakso.
+   "tip1":"Tip #2. Support Caching for Offline ApplicationsIt’s important to utilize caching of data that is bound to grids whenever possible. Caching can reduce or eliminate the need to issue HTTP requests and can greatly improve the overall performance and scalability of your web apps. Most of the time, HTTP caching will help as well through the response headers returned by the web server when data is requested. However, there are scenarios in which it’s useful to have grids support a local cache of data on the client itself. Offline application support is one such scenario where local caching can greatly improve the overall user experience.",
+   "tip2":"Tip #2. Support Caching for Offline Applications It’s important to utilize caching of data that is bound to grids whenever possible. Caching can reduce or eliminate the need to issue HTTP requests and can greatly improve the overall performance and scalability of your web apps. Most of the time, HTTP caching will help as well through the response headers returned by the web server when data is requested. However, there are scenarios in which it’s useful to have grids support a local cache of data on the client itself. Offline application support is one such scenario where local caching can greatly improve the overall user experience.",
+   "tip3":"Tip #3. Enable Data Virtualization When working with a large amount of data in the grid, the task of fetching and processing this data can impose a significant runtime performance penalty due to limited browser resources. Virtualization, a technique used to mitigate slowdown stemming from operating with huge volumes of data, will display the data in the grid as it’s needed. It achieves this by displaying the items for the current page index and retrieving items on-demand. In the case of a grid being bound to data from a remote location, this includes automatically requesting data from the endpoint",
+			   
+   "tip4":"Tip #2. Support Caching for Offline ApplicationsIt’s important to utilize caching of data that is bound to grids whenever possible. Caching can reduce or eliminate the need to issue HTTP requests and can greatly improve the overall performance and scalability of your web apps. Most of the time, HTTP caching will help as well through the response headers returned by the web server when data is requested. However, there are scenarios in which it’s useful to have grids support a local cache of data on the client itself. Offline application support is one such scenario where local caching can greatly improve the overall user experience.",
+   "tip5":"Tip #2. Support Caching for Offline Applications It’s important to utilize caching of data that is bound to grids whenever possible. Caching can reduce or eliminate the need to issue HTTP requests and can greatly improve the overall performance and scalability of your web apps. Most of the time, HTTP caching will help as well through the response headers returned by the web server when data is requested. However, there are scenarios in which it’s useful to have grids support a local cache of data on the client itself. Offline application support is one such scenario where local caching can greatly improve the overall user experience.",
+   "tip6":"Tip #3. Enable Data Virtualization When working with a large amount of data in the grid, the task of fetching and processing this data can impose a significant runtime performance penalty due to limited browser resources. Virtualization, a technique used to mitigate slowdown stemming from operating with huge volumes of data, will display the data in the grid as it’s needed. It achieves this by displaying the items for the current page index and retrieving items on-demand. In the case of a grid being bound to data from a remote location, this includes automatically requesting data from the endpoint",
+     			   
+   "tip7":"Tip #2. Support Caching for Offline ApplicationsIt’s important to utilize caching of data that is bound to grids whenever possible. Caching can reduce or eliminate the need to issue HTTP requests and can greatly improve the overall performance and scalability of your web apps. Most of the time, HTTP caching will help as well through the response headers returned by the web server when data is requested. However, there are scenarios in which it’s useful to have grids support a local cache of data on the client itself. Offline application support is one such scenario where local caching can greatly improve the overall user experience.",
+   "tip8":"Tip #2. Support Caching for Offline Applications It’s important to utilize caching of data that is bound to grids whenever possible. Caching can reduce or eliminate the need to issue HTTP requests and can greatly improve the overall performance and scalability of your web apps. Most of the time, HTTP caching will help as well through the response headers returned by the web server when data is requested. However, there are scenarios in which it’s useful to have grids support a local cache of data on the client itself. Offline application support is one such scenario where local caching can greatly improve the overall user experience.",
+   "tip9":"Tip #3. Enable Data Virtualization When working with a large amount of data in the grid, the task of fetching and processing this data can impose a significant runtime performance penalty due to limited browser resources. Virtualization, a technique used to mitigate slowdown stemming from operating with huge volumes of data, will display the data in the grid as it’s needed. It achieves this by displaying the items for the current page index and retrieving items on-demand. In the case of a grid being bound to data from a remote location, this includes automatically requesting data from the endpoint",
+     
 
-Category :
-- Indomalet Indomalet Indomalet Indomalet Indomalet  Simulator Andy Lukito
-- Indomalet Indomalet Indomalet Indomalet  Simulator indonesia
-- Indomalet Indomalet Indomalet  emulator andy lukito
-- Indomalet Indomalet  Simulator coming soon
-- Indomalet  emulator akhir pekan studio
-- Indomalet  simulator buatan andy lukito
-- baso simulator
-- Indomalet Indomalet  simulator coming soon andy lukito
-- Indomalet  simulator dari warnet simulator
-- game Indomalet  simulator coming soon
-
-Who is not familiar with this culinary one. No need expensive capital to feel the sensation of becoming a Meatball entrepreneur because now you can try to serve it by yourself in this game",
-   "tip2":"Are you ready to feel the sensation of being a Meatball entrepreneur?. Continue to play and improve your recipe, make it more festive and interesting. FREE and guaranteed addictive!
-
-Agility and fast presentation is what you need to play this game because customer satisfaction is the first!.
-",
-   "tip3":""tips3":"Are you ready to feel the sensation of being a Meatball entrepreneur?. Continue to play and improve your recipe, make it more festive and interesting. FREE and guaranteed addictive!
-
-Agility and fast presentation is what you need to play this game because customer satisfaction is the first!.",
-   "tip4":"Come on Serve, starving customers are already lining up in front of your stalls, serve them quickly, do not let them get angry!.
-
-Serve as many customers and become a famous Meatball entrepreneur!",
-   "tip5":"Come on Serve, starving customers are already lining up in front of your stalls, serve them quickly, do not let them get angry!.
-
-Serve as many customers and become a famous Meatball entrepreneur!",
-   "tip6":"Are you ready to feel the sensation of being a Meatball entrepreneur?. Continue to play and improve your recipe, make it more festive and interesting. FREE and guaranteed addictive!
-
-There is a special activity involved with operating an Internet cafe: buying and selling computers with different electronics stores. In order to achieve the best quality and speed, you need to upgrade your transmission equipment constantly.",
-   "tip7":"Are you ready to feel the sensation of being a Meatball entrepreneur?. Continue to play and improve your recipe, make it more festive and interesting. FREE and guaranteed addictive!
-
-There is a special activity involved with operating an Internet cafe: buying and selling computers with different electronics stores. In order to achieve the best quality and speed, you need to upgrade your transmission equipment constantly.",
-   "tip8":"Are you ready to feel the sensation of being a Meatball entrepreneur?. Continue to play and improve your recipe, make it more festive and interesting. FREE and guaranteed addictive!
-
-There is a special activity involved with operating an Internet cafe: buying and selling computers with different electronics stores. In order to achieve the best quality and speed, you need to upgrade your transmission equipment constantly.",
-   "tip9":"Are you ready to feel the sensation of being a Meatball entrepreneur?. Continue to play and improve your recipe, make it more festive and interesting. FREE and guaranteed addictive!
-
-There is a special activity involved with operating an Internet cafe: buying and selling computers with different electronics stores. In order to achieve the best quality and speed, you need to upgrade your transmission equipment constantly.",
-   "tip10":"Are you ready to feel the sensation of being a Meatball entrepreneur?. Continue to play and improve your recipe, make it more festive and interesting. FREE and guaranteed addictive!
-
-There is a special activity involved with operating an Internet cafe: buying and selling computers with different electronics stores. In order to achieve the best quality and speed, you need to upgrade your transmission equipment constantly.",
+   "tip10":"Tip #2. Support Caching for Offline Applications It’s important to utilize caching of data that is bound to grids whenever possible. Caching can reduce or eliminate the need to issue HTTP requests and can greatly improve the overall performance and scalability of your web apps. Most of the time, HTTP caching will help as well through the response headers returned by the web server when data is requested. However, there are scenarios in which it’s useful to have grids support a local cache of data on the client itself. Offline application support is one such scenario where local caching can greatly improve the overall user experience.",
    
-   "title1":"Indomalet Indomalet Indomalet Indomalet Indomalet  Walkthrough",
-   "title2":"Indomalet Indomalet Indomalet Indomalet  smulator  space",
-   "title3":"Sratr the Game play ",
-   "title4":"loading Nes Level ",
-   "title5":"prize counter",
-   "title6":"Level 1 in simulator ",
-   "title7":"why Play Bakso ",
-   "title8":"Indomalet Indomalet Indomalet   fast 8",
-   "title9":"Indomalet Indomalet  fast 9",
-   "title10":"Indomalet   10"
+   "title1":"collage grid tips ",
+   "title2":"How to edit image ",
+   "title3":"Grid Start ",
+   "title4":"loading editing",
+   "title5":"how to start  counter",
+   "title6":"Get Started Now tips ",
+   "title7":" Photo shop edit 7",
+   "title8":" Photo edit  fast 8",
+   "title9":" fast 9",
+   "title10":"Edit Now"
 	  }
    
    }
